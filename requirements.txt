@@ -1,0 +1,4 @@
+nltk
+pythainlp
+Inflector
+contractions
