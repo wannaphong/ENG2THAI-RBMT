@@ -1,4 +1,8 @@
 # ENG2THAI-RBMT
 English - Thai Rule-based machine translation
 
-work in progress ...
+-  	translate.ipynb is English - Thai Rule-based machine translation code.
+
+Wannaphong Phatthiyaphaibun
+
+Natural Language Processing Developer
